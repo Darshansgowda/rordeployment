@@ -1,4 +1,4 @@
-root = "/u01/apps/qwinix/ruby-project/"
+root = "/home/ec2-user/rordeployment/current"
 
 pid           "#{root}/tmp/pids/unicorn.pid"
 stderr_path   "#{root}/log/unicorn_error.log"
